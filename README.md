@@ -4,6 +4,6 @@ The game is developed using the Unity Engine with C# handling the core game logi
 
 Experimental testing demonstrates that the proposed AI system successfully reduces predictability while maintaining stable performance and low decision latency. Results indicate improved adaptability and more varied gameplay responses compared to static rule-based approaches. This project highlights the effectiveness of combining utility-based AI with probabilistic reasoning in turn-based combat systems and provides a scalable framework for developing intelligent and engaging non-player characters in role playing games.
 
-To run the game, you can download the zip file and open Eternal Fantasy.exe, and enjoy the game :). If you dont understand the gameplay, you can check the tutorial in the main menu. We will upload the training dataset, training model, and several important scripts in the forseeable future.
+To run the game, you can download the exe installer file and open EternalFantasySetup.exe. This file will install the game and can create a shortcut to your desktop. If you dont understand the gameplay, you can check the tutorial in the main menu. We will upload the training dataset, training model, and several important scripts in the forseeable future. Enjoy the game :)!
 
 Keywords: Artificial Intelligence, Turn-based Combat, Unity Engine, Hybrid System (C#-Python), Utility-based Scoring Model, Finite State Machine (FSM), Conditional Probability, Frequency Analysis, Adaptive AI.
